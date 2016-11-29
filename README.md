@@ -1,2 +1,2 @@
 # MyOwnStore
-E-Commerce Platform, providing uploading and displaying goods. Including local authentication!
+E-Commerce Platform, providing uploading and displaying goods functionality. Including local authentication!
